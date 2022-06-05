@@ -1,7 +1,7 @@
 # knn_lilic_patternReg_mnist
 the homework from pr's knn task
 
-some resource are coming from csdn, copy that ❀
+some resource are coming from csdn, acknowledgement❀
 
 reference:
 1.lanqiao.cn
